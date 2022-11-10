@@ -1,3 +1,5 @@
 this repo demostrate a eip712 implementation in go
 1. there is no "uint256" type in go, string or big.Int is used to interact with uint256 in solidity.
 2. map[string]interface{} is used to represents struct type.
+
+the contract is deployed at https://testnet.bscscan.com/address/0x1ba491c5078a109685877f5a368dde0303a83fe5
